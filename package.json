@@ -1,5 +1,5 @@
 {
-  "name": "Tabby",
+  "name": "Tabby.js",
   "version": "1.0.0",
   "description": "An easy-to-use js library to add tabby cats to your site",
   "main": "dist/tabby.js",
