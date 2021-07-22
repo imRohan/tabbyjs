@@ -10,7 +10,7 @@ An easy-to-use js library to add tabby cats to your site. Simply include the js 
 
 #### CDN
 
-Tabby.js built files are available through [jsDelivr](https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js)
+Tabby.js built files are available through [jsDelivr](https://www.jsdelivr.com/package/npm/tabby-dot-js?path=dist)
 
 ```
   https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js
@@ -29,7 +29,7 @@ Tabby.js built files are available through [jsDelivr](https://cdn.jsdelivr.net/n
 ## Development
 
 #### Clone the repo
-`git clone https://github.com/imRohan/tabby.git && cd tabby`
+`git clone https://github.com/imRohan/tabbyjs.git && cd tabbyjs`
 
 #### Install Dependencies
 
