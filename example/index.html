@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tabby Demo</title>
+    <meta name="author" content="Rohan Likhite">
+    <link rel="shortcut icon" href="" type="image/vnd.microsoft.icon">
+    <script src="../dist/tabby.js"></script>
+    <script>
+      Tabby.start()
+    </script>
+    <style>
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: sans-serif;
+      }
+      .app {
+        background: #B3E7C5;
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      } 
+      .demo__title, .demo__subtitle{
+        color: #ffffff;
+        font-weight: 700;
+        padding: 5vh 0;
+        text-align: center;
+      }
+      .demo__title {
+        font-size: 5vw;
+      }
+      .demo__title {
+        font-size: 3vw;
+      }
+      .credits {
+        position: absolute;
+        display: block;
+        bottom: 0;
+        right: 0;
+        text-align: right;
+        font-weight: 700;
+        padding: 1em;
+      }
+      .credits > a {
+        text-decoration: none;
+        color: #ffffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <div class="demo__container">
+        <div class="demo__title">
+          Tabby.js Demo
+        </div> 
+        <div class="demo__subtitle">
+          Press [Tab + b]!
+        </div> 
+      </div>
+      <div class="credits">
+        <a href="https://www.rohanlikhite.com">
+          Made with love by Rohan
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
+

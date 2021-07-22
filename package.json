@@ -1,0 +1,26 @@
+{
+  "name": "Tabby",
+  "version": "1.0.0",
+  "description": "An easy-to-use js library to add tabby cats to your site",
+  "main": "dist/tabby.js",
+  "repository": "git@github.com:imRohan/tabbyjs.git",
+  "author": "Rohan Likhite <rlikhite@gmail.com> (https://rohanlikhite.com)",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "autobuild": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "keywords": ["cat", "easte", "egg", "fun", "shortcut"],
+  "homepage": "https://github.com/imRohan/tabbyjs",
+  "bugs": "https://github.com/imRohan/tabbyjs/issues",
+  "devDependencies": {
+    "@rollup/plugin-eslint": "^8.0.1",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "rollup": "^2.53.3"
+  }
+}
