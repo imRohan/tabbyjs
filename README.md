@@ -8,10 +8,18 @@ An easy-to-use js library to add tabby cats to your site. Simply include the js 
 
 ## How to use Tabby.js
 
+#### CDN
+
+Tabby.js built files are available through [jsDelivr](https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js)
+
+```
+  https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js
+```
+
 #### Browser
 
 ```html
-<script src="tabby.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js"></script>
 <script>
     Tabby.start()
 </script
