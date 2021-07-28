@@ -11,7 +11,7 @@
     "autobuild": "rollup -c -w",
     "build": "rollup -c"
   },
-  "keywords": ["cat", "easte", "egg", "fun", "shortcut"],
+  "keywords": ["cat", "easter", "egg", "shortcut", "cats", "tabby"],
   "homepage": "https://github.com/imRohan/tabbyjs",
   "bugs": "https://github.com/imRohan/tabbyjs/issues",
   "devDependencies": {

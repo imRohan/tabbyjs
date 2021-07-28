@@ -22,8 +22,17 @@ Tabby.js built files are available through [jsDelivr](https://www.jsdelivr.com/p
 <script src="https://cdn.jsdelivr.net/npm/tabby-dot-js/dist/tabby.js"></script>
 <script>
     Tabby.start()
-</script
+</script>
+```
 
+You can also pass in an array of images if you'd like to override the defaults.
+
+```html
+  Tabby.start([
+    "https://website.com/image1.png",
+    "https://website.com/image2.png",
+    "https://website.com/image3.png"
+  ])
 ```
 
 ## Development
