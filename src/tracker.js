@@ -13,8 +13,10 @@ export default class Tracker {
     this.keysPressed.add(e.key)
   }
 
-  clear() {
-    this.keysPressed.clear()
+  clear(e) {
+    if (e.key !== B_KEY) {
+      this.keysPressed.clear()
+    }
   }
 
   shortcutTriggered() {

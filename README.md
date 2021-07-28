@@ -1,6 +1,6 @@
 
 ## Tabby.js
-![demoGif](https://i.imgur.com/cNbDRxD.gif)
+![demoGif](https://i.imgur.com/6MhegW3.gif)
 
 An easy-to-use js library to add tabby cats to your site. Simply include the js library and hit [Tab + b] to add some cats to any page!
 
