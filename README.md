@@ -28,11 +28,13 @@ Tabby.js built files are available through [jsDelivr](https://www.jsdelivr.com/p
 You can also pass in an array of images if you'd like to override the defaults.
 
 ```html
+<script>  
   Tabby.start([
     "https://website.com/image1.png",
     "https://website.com/image2.png",
     "https://website.com/image3.png"
   ])
+</script>
 ```
 
 ## Development
