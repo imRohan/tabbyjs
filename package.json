@@ -1,6 +1,6 @@
 {
   "name": "tabby-dot-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An easy-to-use js library to add tabby cats to your site",
   "main": "dist/tabby.js",
   "repository": "git@github.com:imRohan/tabbyjs.git",
@@ -11,7 +11,15 @@
     "autobuild": "rollup -c -w",
     "build": "rollup -c"
   },
-  "keywords": ["cat", "easter", "egg", "shortcut", "cats", "tabby"],
+  "keywords": [
+    "cat",
+    "easter",
+    "egg",
+    "shortcut",
+    "cats",
+    "tabby",
+    "easteregg"
+  ],
   "homepage": "https://github.com/imRohan/tabbyjs",
   "bugs": "https://github.com/imRohan/tabbyjs/issues",
   "devDependencies": {
